@@ -1,13 +1,11 @@
 ---
 
 # Hi there, I'm Ashish👋
-![Profile Views](https://komarev.com/ghpvc/?username=shrivastava-ashish&label=Profile%20Views&color=0e75b6&style=flat)
-![Motto](https://img.shields.io/badge/Learning-Never%20Stops-orange)
 
 ---
 
 ## 🚀 About Me
-- 💻 **Profession**: Aspiring Software Engineer  
+- 💻 **Profession**: Student  
 - 🌍 **Location**: India  
 - 🎯 **Interests**: DSA, Web Development and Open Source 
 - 📚 **Currently Learning**: Advanced DSA & System Design  
@@ -44,15 +42,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shrivastava-ashish/shrivastava-ashish/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## ✨ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad."
+> 
 
 ---
 
