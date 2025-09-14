@@ -1,60 +1,52 @@
-# Hi there, I'm Ashish 👋
+---
 
+# Hi there, I'm Ashish👋
 ![Profile Views](https://komarev.com/ghpvc/?username=shrivastava-ashish&label=Profile%20Views&color=0e75b6&style=flat)
+![Motto](https://img.shields.io/badge/Learning-Never%20Stops-orange)
 
 ---
 
 ## 🚀 About Me
 - 💻 **Profession**: Aspiring Software Engineer  
-- 🌍 **Location**: Delhi, India  
-- 🎯 **Interests**: DSA, Web Development and Open Source  
+- 🌍 **Location**: India  
+- 🎯 **Interests**: DSA, Web Development and Open Source 
 - 📚 **Currently Learning**: Advanced DSA & System Design  
 - 🤝 **Looking to collaborate on**: Open-source projects & innovative products  
 
 ---
 
-## 🌐 Connect with me
+## 🔗 Tech Stack
 <p align="left">
-<a href="https://x.com/ashish_100801" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
-<a href="https://instagram.com/shrivastava__ashish" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-<a href="mailto:ashishshrivastava100801@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrivastava-ashish&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastava-ashish&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
+<a href="https://instagram.com/shrivastava__ashish" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/ashish_100801" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" /></a>
+<a href="mailto:ashishshrivastava100801@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/shrivastava-ashish/shrivastava-ashish/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-## 🧩 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shrivastava-ashish?ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-## 🔗 Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/shrivastava-ashish/shrivastava-ashish/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -65,3 +57,5 @@
 ---
 
 ⭐️ From [shrivastava-ashish](https://github.com/shrivastava-ashish)
+
+---
