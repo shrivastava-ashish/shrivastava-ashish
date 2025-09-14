@@ -1,0 +1,28 @@
+name: Generate LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate LeetCode stats card
+        uses: joshix-lee/leetcode-stats-card@v1.1.0
+        with:
+          username: shrivastava-ashish
+          theme: dark
+          output: leetcode-stats.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
