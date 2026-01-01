@@ -36,7 +36,6 @@
 <a href="https://linkedin.com/in/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/shrivastava-ashish" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
 <a href="https://instagram.com/shrivastava__ashish" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/ashish_100801" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" /></a>
 <a href="mailto:ashishshrivastava100801@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
